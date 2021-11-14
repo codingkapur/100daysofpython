@@ -76,6 +76,6 @@
 
 # print(f"Remaining Years: {totalYears-currentAge}\nRemainging Months: {totalMonths-numMonths}\nRemaining Days: {totalDays-numDays}\nRemaining Weeks: {round(totalWeeks-numWeeks, 2)}")
 
-age=12
-print("you are " +age+ " yeas old")
+# age=12
+# print("you are " +age+ " yeas old")
  
