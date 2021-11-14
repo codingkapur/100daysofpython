@@ -50,9 +50,32 @@
 # - print((5//3))
 # F strings are like template literals in JavaScript
 
-score = 0
-height= 1.8
-isWinning = True
+# score = 0
+# height= 1.8
+# isWinning = True
 
-print(f"your score is {score} and your height is {height} and your winning state is {isWinning}" )
+# print(f"your score is {score} and your height is {height} and your winning state is {isWinning}" )
 
+# WEEKS IN LIFE
+# totalYears = 90
+# totalMonths = 90*12
+# totalDays=90*365
+# totalWeeks= totalDays/7
+# print("Assuming that you will live for 90 years, here is your total life span in numbers: ")
+
+# print(f"Current Age: {totalYears}\nTotal Months: {totalMonths}\nTotal Days: {totalDays}\nTotal Weeks: {round(totalWeeks, 2)}")
+
+# print("How much of your life have you lived so far? Let's have a look!")
+# currentAge = int(input("What is your age?\n"))
+# numMonths = currentAge*12
+# numDays = currentAge*365
+# numWeeks = numDays/7
+# print(f"Current Age: {currentAge}\nTotal Months: {numMonths}\nTotal Days: {numDays}\nTotal Weeks: {numWeeks}")
+
+# print("And now for the finale!\nWhat are the reamining numbers of your life span assuming you don't get fatally hit by a car or cancer!")
+
+# print(f"Remaining Years: {totalYears-currentAge}\nRemainging Months: {totalMonths-numMonths}\nRemaining Days: {totalDays-numDays}\nRemaining Weeks: {round(totalWeeks-numWeeks, 2)}")
+
+age=12
+print("you are " +age+ " yeas old")
+ 
