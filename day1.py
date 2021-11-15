@@ -15,6 +15,7 @@
 lastMealName = input("What is the last thing you ate?\n")
 favGadget = input("What is your favorite gadget?\n")
 print("The name of your band should be " + lastMealName + " " + favGadget)
+
 # Basic for loop
 # for c in lastMealName:
 #     print(c)
